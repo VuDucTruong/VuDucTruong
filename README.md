@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vũ Đức Trường</h1>
 <h3 align="center">A passionate mobile developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **ReactJS and React Native**
 
 - 💬 Ask me about **Flutter**
 
