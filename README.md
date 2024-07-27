@@ -5,11 +5,12 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **21520507@gm.uit.edu.vn**
+- 📫 How to reach me **lmhtusa523@gmail.com**
 
 - ⚡ Fun fact **I think I am quite silly sometimes :)**
 
 <h3 align="left">Connect with me:</h3>
+<h2>My portfolio is <a href="https://my-portfolio-khaki-five-14.vercel.app/">here</a><h2/>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100012656896911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012656896911" height="30" width="40" /></a>
 </p>
