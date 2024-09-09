@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <h2>My portfolio is <a href="https://my-portfolio-khaki-five-14.vercel.app/">here</a><h2/>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vu-duc-truong-408910268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vu-duc-truong-408910268/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100012656896911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012656896911" height="30" width="40" /></a>
 </p>
 
